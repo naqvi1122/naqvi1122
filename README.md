@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **react js with laravel  ,**
 
 - 📫 How to reach me **baqarnaqvi925@gmail.com**
+- 📫 Mobile number **03144393814**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
