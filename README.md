@@ -1,5 +1,4 @@
-![MasterHead](https://laravelnews.imgix.net/images/laravel-featured.png?ixlib=php-3.3.1
-)
+https://res.cloudinary.com/practicaldev/image/fetch/s--Qhu3PUis--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y63ie8bmktwik5w3mhlg.png
 <h1 align="center">Hi 👋, I'm Syed Muhammad Baqar Naqvi</h1>
 <h1 align="center">software engineer</h1>
 <img align="right" alt="Coding" width="400" src="https://media.wired.com/photos/5cc244c9af643e2f373ebb28/master/pass/Coding-Becomes-Criminal.jpg">
